@@ -1,6 +1,5 @@
 # ToolsAndSuch by zklsmr
 
-
 ## Some scripts I wrote using :sparkles: AI :sparkles: to perform various tasks
 
 Implemented:
